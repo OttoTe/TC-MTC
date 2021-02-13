@@ -1,1 +1,1 @@
-# TC-MTC
+# TrainCraft-MineTrainControl
